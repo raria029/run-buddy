@@ -12,3 +12,5 @@ https://raria029.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Rocio Arias
+
+### ©️2019 Run Buddy, Inc
